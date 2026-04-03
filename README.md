@@ -49,6 +49,7 @@ git clone https://github.com/Ultima0369/flash-zoo.git
 cd flash-zoo
 npm install
 npm start
+```
 浏览器打开 http://localhost:3000
 
 如何参与
@@ -63,7 +64,7 @@ npm start
 想让 UI 更闪亮？加一点光晕、粒子、孵化特效。
 
 教育理念、UI设计、本地AI优化、移动端适配……任何方向都欢迎。
-```
+
 许可证
 MIT —— 随便用，随便改。
 
